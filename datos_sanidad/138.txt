@@ -1,0 +1,203 @@
+ 
+SECRETARIA GENERAL 
+DE SANIDAD  
+
+DIRECCIÓN GENERAL DE  
+SALUD PÚBLICA, CALIDAD 
+E INNOVACIÓN 
+ 
+
+ 
+
+                                                                                                              
+
+Centro de Coordinación de   
+Alertas y Emergencias 
+Sanitarias 
+
+ 
+Tabla 2. Casos de COVID-19 que han precisado hospitalización, ingreso en UCI y fallecidos (total y confecha de hospitalización/ingreso en UCI/fallecimiento en los últimos 7 días) por 
+Comunidades Autónomas en España a 15.06.2020 (datos consolidados a las 14:00 horas del 16.06.2020). 
+ 
+
+Casos que han precisado hospitalización 
+
+Casos que han ingresado en UCI 
+
+Fallecidos 
+
+Con fecha de ingreso 
+en  los últimos 7 días 
+
+Total** 
+
+Con fecha de defunción 
+en  los últimos 7 días 
+
+CCAA 
+
+Andalucía 
+Aragón 
+Asturias 
+Baleares 
+Canarias 
+Cantabria 
+Castilla La Mancha 
+Castilla y León 
+Cataluña 
+Ceuta 
+C. Valenciana 
+Extremadura 
+Galicia 
+Madrid 
+Melilla 
+Murcia 
+Navarra 
+País Vasco 
+La Rioja 
+ESPAÑA 
+
+Total* 
+
+6.312 
+2.677 
+1.117 
+1.171 
+950 
+1.053 
+9.389 
+8.727 
+29.278 
+14 
+5.804 
+1.772 
+2.935 
+42.255 
+45 
+679 
+2.041 
+6.976 
+1.488 
+124.683 
+
+Total* 
+
+789 
+273 
+128 
+169 
+184 
+80 
+660 
+622 
+2.982 
+4 
+742 
+138 
+336 
+3.597 
+3 
+112 
+136 
+578 
+91 
+11.624 
+
+Con fecha de ingreso 
+en UCI en  los últimos 
+7 días 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+2 
+0 
+1 
+0 
+0 
+2 
+0 
+0 
+0 
+0 
+0 
+6 
+
+1.404 
+826 
+314 
+209 
+151 
+202 
+2.945 
+1.928 
+5.587 
+4 
+1.332 
+508 
+609 
+8.691 
+2 
+148 
+490 
+1.424 
+362 
+27.136 
+
+1 
+1 
+3 
+0 
+1 
+0 
+2 
+3 
+3 
+0 
+1 
+1 
+0 
+7 
+0 
+0 
+0 
+2 
+0 
+25 
+
+7 
+4 
+0 
+3 
+0 
+2 
+8 
+11 
+9 
+0 
+2 
+0 
+2 
+30 
+1 
+0 
+2 
+4 
+1 
+86 
+
+ 
+
+Los casos confirmados no provienen de la suma de pacientes hospitalizados, curados y fallecidos, ya que no son excluyentes. Pacientes fallecidos y curados pueden haber precisado hospitalización y por 
+tanto computar en ambos grupos. Los pacientes que han precisado UCI también computan en los pacientes que han requerido hospitalización.  
+
+ 
+*Se está realizando una validación individualizada de los casos por lo que puede haber discrepancias respecto a la notificación agregada de días previos. 
+ 
+** Se está realizando una validación de los casos fallecidos que permitirá corregir la serie histórica que se actualizará semanalmente.  
+
+

@@ -1,0 +1,240 @@
+ 
+SECRETARIA GENERAL 
+DE SANIDAD  
+
+DIRECCIÓN GENERAL DE  
+SALUD PÚBLICA, CALIDAD 
+E INNOVACIÓN 
+ 
+
+ 
+
+                                                                                                              
+
+Centro de Coordinación de   
+Alertas y Emergencias 
+Sanitarias 
+
+ 
+
+ 
+
+Actualización nº 76. Enfermedad por el coronavirus (COVID-19).  
+15.04.2020 (datos consolidados a las 21:00 horas del 14.04.2020) 
+
+1.  SITUACIÓN ACTUAL 
+
+ 
+
+CCAA 
+
+IA  
+(14 d.) 
+
+TOTAL 
+confirmados* 
+
+Situación en España: 
+En  España,  hasta  el  momento  se  han  notificado  un  total  de  177.633  casos  confirmados  de  COVID.19, 
+18.579  fallecidos  y  70.853  curados  (Tabla  1,  Figura  1  y  Figura  2).  Esto  supone  4.978  casos  nuevos,  523 
+fallecidos  nuevos  y  3.349  nuevos  curados  notificados  en  las  ultimas  24  horas.  Las  Comunidades 
+Autónomas con una mayor incidencia acumulada en los últimos 14 días son La Rioja, Castilla La Mancha, 
+Madrid, y Castilla y León (Figura 3 y Figura 4). La distribución por grupos de edad de casos hospitalizados, 
+ingresados en UCI y fallecidos se recoge en la Tabla 2. El incremento diario medio de la semana del 13 al 
+19  de  abril  es  de  2,4%  para  casos  confirmados,  1,7%  para  los    casos  que  han  percisado  hospitalización, 
+1,5% para los que han ingresado en UCI y 3,1% para los fallecidos (Tabla 3). 
+ 
+Tabla 1. Casos COVID-19, incidencia acumulada (IA) en los últimos 14 días, ingreso en UCI y fallecidos por 
+Comunidades Autónomas en España, 15.04.2020 (datos consolidados a las 21:00 horas del 14.04.2020). 
+Casos que han 
+precisado 
+hospitalización 
+5.147 
+2.006 
+1.387 
+857 
+781 
+873 
+7.896 
+6.306 
+23.372 
+9 
+4.465 
+1.155 
+2.471 
+10.116¥ 
+43 
+574 
+1.731 
+5.750 
+1.182 
+  
+
+Andalucía 
+Aragón 
+Asturias 
+Baleares 
+Canarias 
+Cantabria 
+Castilla La Mancha 
+Castilla y León 
+Cataluña 
+Ceuta 
+C. Valenciana 
+Extremadura 
+Galicia 
+Madrid 
+Melilla 
+Murcia 
+Navarra 
+País Vasco 
+La Rioja 
+ESPAÑA 
+
+Casos que han 
+ingresado en 
+UCI 
+665 
+282 
+114 
+149 
+152 
+76 
+495 
+306¥ 
+2.789 
+4 
+588 
+109 
+128¥ 
+1.244¥ 
+3 
+97 
+124 
+471 
+75 
+  
+
+10.595** 
+4.338 
+2.096 
+1.606 
+1.975 
+1.823 
+14.680 
+13.697 
+36.505 
+98 
+9.424 
+2.762 
+7.708 
+49.526 
+102 
+1.520 
+4.246 
+11.475 
+3.457 
+177.633 
+
+2.224 
+1.012 
+487 
+881 
+622 
+363 
+2.998 
+4.521 
+16.651 
+30 
+3.360 
+615 
+1.298 
+27.433 
+24 
+513 
+808 
+5.428 
+1.585 
+70.853 
+
+49,95 
+140 
+75,67 
+41,32 
+27,63 
+104,98 
+375,48 
+285,47 
+215,16 
+55,44 
+69,99 
+101,43 
+121,36 
+295,44 
+46,25 
+32,06 
+267,34 
+210,03 
+472,54 
+160,54 
+
+865 
+514 
+166 
+125 
+104 
+132 
+1.755 
+1.337 
+3.756 
+4 
+945 
+342 
+299 
+6.724 
+2 
+109 
+252 
+902 
+246 
+18.579 
+
+289** 
+93 
+45 
+35 
+17 
+27 
+351 
+517 
+1.308 
+2 
+211 
+78 
+111 
+1.478 
+1 
+33 
+96 
+249 
+37 
+4.978 
+
+Fallecidos  Curados  Nuevos 
+
+IA (14 d.): Incidencia acumulada (casos acumulados por 100.000 habitantes notificados en los últimos 14 días. 
+Los datos de las CCAA están en continua revisión y ciertas oscilaciones diarias pueden deberse a procesos de depuración de datos y 
+no a variaciones reales acontecidas de un día a otro. 
+*  Los  casos  confirmados  no  provienen  de  la  suma  de  pacientes  hospitalizados,  curados  y  fallecidos,  ya  que  no  son  excluyentes. 
+Pacientes fallecidos y curados pueden haber precisado hospitalización y por tanto computar en ambos grupos. Los pacientes que 
+han precisado UCI también computan en los pacientes que han requerido hospitalización. 
+**Andalucía ha notificado un total de 169 positivos asintomáticos incluidos en el total de confirmados, los casos nuevos de hoy se 
+han calculado teniendo en cuenta los 114 nuevos asintomáticos de ayer. 
+¥ Los datos de estas comunidades son datos de prevalencia (personas ingresadas a fecha de hoy). No reflejan el total de personas 
+que han sido hospitalizadas o ingresadas en UCI  a lo largo del periodo de notificación por lo que no se puede realizar el sumatorio 
+de todas las personas que han requerido hospitalización o ingreso en UCI en España.  
+Fuente: elaboración propia 
+
+1 
+
+
