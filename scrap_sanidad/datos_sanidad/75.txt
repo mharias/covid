@@ -1,0 +1,239 @@
+ 
+SECRETARIA GENERAL 
+DE SANIDAD  
+
+DIRECCIÓN GENERAL DE  
+SALUD PÚBLICA, CALIDAD 
+E INNOVACIÓN 
+ 
+
+ 
+
+                                                                                                              
+
+Centro de Coordinación de   
+Alertas y Emergencias 
+Sanitarias 
+
+ 
+
+ 
+
+Actualización nº 75. Enfermedad por el coronavirus (COVID-19).  
+14.04.2020 (datos consolidados a las 21:00 horas del 13.04.2020) 
+
+1.  SITUACIÓN ACTUAL 
+
+ 
+
+Situación en España: 
+En  España,  hasta  el  momento  se  han  notificado  un  total  de  172.541  casos  confirmados  de  COVID.19, 
+18.056  fallecidos  y  67.504  curados  (Tabla  1,  Figura  1  y  Figura  2).  Esto  supone  3.045  casos  nuevos,  567 
+fallecidos  nuevos  y  2.777  nuevos  curados  notificados  en  las  ultimas  24  horas.  Las  Comunidades 
+Autónomas con una mayor incidencia acumulada en los últimos 14 días son La Rioja, Castilla La Mancha, 
+Madrid, y Castilla y León ( Figura 3 y Figura 4). La distribución por grupos de edad de casos hospitalizados, 
+ingresados en UCI y fallecidos se recoge en la Tabla 2. El incremento diario medio de la semana del 13 al 
+19  de  abril  es  de  2%  para  casos  confirmados,  2%  para  los    casos  que  han  percisado  hospitalización,  2% 
+para los que han ingresado en UCI y 3% para los fallecidos (Tabla 3). 
+ 
+Tabla 1. Casos COVID-19, incidencia acumulada (IA) en los últimos 14 días, ingreso en UCI y fallecidos por 
+Comunidades Autónomas en España, 14.04.2020 (datos consolidados a las 21:00 horas del 13.04.2020). 
+
+CCAA 
+
+TOTAL 
+confirmados* 
+
+IA (14 d.) 
+
+Andalucía 
+Aragón 
+Asturias 
+Baleares 
+Canarias 
+Cantabria 
+Castilla La Mancha 
+Castilla y León 
+Cataluña 
+Ceuta 
+C. Valenciana 
+Extremadura 
+Galicia 
+Madrid 
+Melilla 
+Murcia 
+Navarra 
+País Vasco 
+La Rioja 
+ESPAÑA 
+
+10.192 
+4.245 
+2.051 
+1.571 
+1.958 
+1.796 
+14.329 
+13.180 
+35.197 
+96 
+9.213 
+2.684 
+7.597 
+48.048 
+101 
+1.487 
+4.150 
+11.226 
+3.420 
+172.541 
+
+Casos que han 
+precisado 
+hospitalización 
+5.054 
+1.966 
+1.330 
+826 
+771 
+853 
+7.830 
+6.175 
+23.126 
+9 
+4.397 
+1.114 
+2.403 
+10.753¥ 
+43 
+566 
+1.705 
+5.679 
+1.152 
+  
+
+Casos que han 
+ingresado en 
+UCI 
+631 
+280 
+111 
+145 
+147 
+76 
+486 
+308¥ 
+2.775 
+4 
+581 
+108 
+133¥ 
+1.299¥ 
+3 
+96 
+124 
+470 
+74 
+  
+
+Fallecidos  Curados  Nuevos 
+
+836 
+492 
+156 
+118 
+102 
+120 
+1.714 
+1.299 
+3.666 
+4 
+907 
+334 
+290 
+6.568 
+2 
+106 
+249 
+859 
+234 
+18.056 
+
+2.032 
+963 
+458 
+871 
+589 
+323 
+2.943 
+4.266 
+15.967 
+22 
+3.069 
+578 
+1.240 
+26.247 
+18 
+476 
+730 
+5.193 
+1.519 
+67.504 
+
+5** 
+58 
+93 
+21 
+14 
+19 
+275 
+552 
+471 
+1 
+153 
+26 
+103 
+902 
+0 
+24 
+58 
+208 
+62 
+3.045 
+
+51,98 
+149,55 
+79,68 
+43,67 
+32,32 
+107,56 
+388,86 
+290,43 
+213,99 
+73,13 
+74,04 
+98,90 
+131,80 
+308,24 
+54,34 
+34,34 
+282,02 
+222,21 
+508,21 
+166,13 
+
+IA (14 d.): Incidencia acumulada (casos acumulados por 100.000 habitantes notificados en los últimos 14 días. 
+Los datos de las CCAA están en continua revisión y ciertas oscilaciones diarias pueden deberse a procesos de depuración de datos y 
+no a variaciones reales acontecidas de un día a otro. 
+*  Los  casos  confirmados  no  provienen  de  la  suma  de  pacientes  hospitalizados,  curados  y  fallecidos,  ya  que  no  son  excluyentes. 
+Pacientes fallecidos y curados pueden haber precisado hospitalización y por tanto computar en ambos grupos. Los pacientes que 
+han precisado UCI también computan en los pacientes que han requerido hospitalización. 
+**Andalucía ha notificado también 114 casos asintomáticos. 
+¥ Los datos de estas comunidades son datos de prevalencia (personas ingresadas a fecha de hoy). No reflejan el total de personas 
+que han sido hospitalizadas o ingresadas en UCI  a lo largo del periodo de notificación por lo que no se puede realizar el sumatorio 
+de todas las personas que han requerido hospitalización o ingreso en UCI en España.  
+Fuente: elaboración propia 
+
+1 
+
+
