@@ -1,4 +1,7 @@
-Aqui vemos los gráficos correspondientes al estudio de las fechas de asignación vs publicación de la Comunidad de MAdrid
+Aqui vemos los gráficos correspondientes al estudio de las fechas de asignación vs publicación de la Comunidad de Madrid:
+Por medio del [script](https://github.com/mharias/covid/blob/master/IA14_madrid/analisis_AI14_Madrid_incv1.ipynb) nos descargamos la información publicada por la Comunidad de MAdrid diariamente. Este [pdf](https://www.comunidad.madrid/sites/default/files/doc/sanidad/201226_cam_covid19.pdf),por ejemplo, es el correspondiente al día 26 de Diciembre.
+Una vez tratada la información conseguimos un fichero [csv](https://github.com/mharias/covid/blob/master/IA14_madrid/csv/numeros_madrid_tabla.csv) con todos los datos diarios que se han publicado desde 1 de Septiembre. Y podemos comprobar como se han asignado los datos publicados en un determinado día.
+Y lo podemos presentar en este gráfico en el que en el eje X encontramos el día de publicación (desde 1 de Septiembre como he comentado) y la actualidad (puede presentar algún retraso por mi disponibilidad de tiempo) y en el eje Y podemos ver 
 ![Estado por provincias](https://github.com/mharias/covid/blob/master/IA14_madrid/imagenes/distribucion_madrid.png)
 ![Estado por provincias](https://github.com/mharias/covid/blob/master/IA14_madrid/imagenes/distribucion_madrid_pct.png)
 ![Estado por provincias](https://github.com/mharias/covid/blob/master/IA14_madrid/imagenes/casos+distri_madrid.png)
