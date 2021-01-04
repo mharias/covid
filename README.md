@@ -7,10 +7,10 @@ Gráficos por provincias
 
 ![Estado por provincias](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/pcr_provincias.png)
 
-![Estado por provincias](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/andalucia.png)
-![Estado por provincias](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/aragon.png)
-![Estado por provincias](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/asturias.png)
-![Estado por provincias](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/canarias.png)
+![Andalucia](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/andalucia.png)
+![Aragon](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/aragon.png)
+![Asturias](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/asturias.png)
+![Islas Canarias](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/canarias.png)
 ![Estado por provincias](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/cantabria.png)
 ![Estado por provincias](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/castilla_lamancha.png)
 ![Estado por provincias](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/castilla_leon.png)
