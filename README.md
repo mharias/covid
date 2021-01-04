@@ -16,5 +16,5 @@ Gráficos por provincias
 [Aquí](https://github.com/mharias/covid/blob/master/hopkins/README.md)
 
 ## Análisis publicados vs asignados de Madrid
-![Estado por provincias](https://github.com/mharias/covid/blob/master/hopkins/graficos/temporal_por_paises_hasta.png)
+
 
