@@ -4,4 +4,5 @@ Compartimos en este github el estado de la pandemia recopilando información de 
 
 ## Escovid19data
 Gráficos por provincias
-https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/pcr_provincias.png
+
+![Estado por provincias](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/pcr_provincias.png)
