@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/mharias/covid_almendralejo/commits/master)
+
 # Estado de pandemia Covid19 con información de diversos repositorios
 ## Objetivo
 Compartimos en este github el estado de la pandemia recopilando información de repositorios públicos. LA intención es compartir, poniendo a disposición de todos de una manera abierta, reutilizable y auditable la información disponible.
@@ -26,6 +29,7 @@ Gráficos por provincias
 ![Estado por provincias](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/rioja.png)
 ![Estado por provincias](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/valencia.png)
 
-## Hopkins
-Estado por países
+
+## Análisis publicados vs asignados de Madrid
 ![Estado por provincias](https://github.com/mharias/covid/blob/master/hopkins/graficos/temporal_por_paises_hasta.png)
+
