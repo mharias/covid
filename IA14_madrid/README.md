@@ -20,6 +20,8 @@ De esta manera podemos coomprobar como se han ido publicando en el futuro los ca
 
 Y su correspondiente versión con porcentajes. Aquí podemos comprobar que la suma de una fila es igual a 100%
 ![Estado por provincias](https://github.com/mharias/covid/blob/master/IA14_madrid/imagenes/distribucion_asignados_pct_madrid_pct.png)
+
+Y como hemos hecho con la gráfica de publicación hemos preparado un gráfico en el que asociamos por cestas a los positivos asignados, pudiendo comprobar rápidamente como se comporta esta asignación en el tiempo. Y ver si el modelo se mejora o, sin embargo, empeora.
 ![Estado por provincias](https://github.com/mharias/covid/blob/master/IA14_madrid/imagenes/resumen_asignados_madrid.png)
 
 
