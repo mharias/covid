@@ -1,3 +1,5 @@
+# Comunidad de Madrid: Análisis del impacto de retrasos en la asignación de casos positivos
+
 Aqui vemos los gráficos correspondientes al estudio de las fechas de asignación vs publicación de la Comunidad de Madrid:
 Por medio del [script](https://github.com/mharias/covid/blob/master/IA14_madrid/analisis_AI14_Madrid_incv1.ipynb) nos descargamos la información publicada por la Comunidad de MAdrid diariamente.
 
