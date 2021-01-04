@@ -25,3 +25,7 @@ Gráficos por provincias
 ![Estado por provincias](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/paisvasco.png)
 ![Estado por provincias](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/rioja.png)
 ![Estado por provincias](https://github.com/mharias/covid/blob/master/graficos_escovid19data/graficos/valencia.png)
+
+## Hopkins
+Estado por países
+![Estado por provincias](https://github.com/mharias/covid/blob/master/hopkins/graficos/temporal_por_paises_hasta.png)
