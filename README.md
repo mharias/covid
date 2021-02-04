@@ -22,4 +22,4 @@ En este [script](https://github.com/mharias/covid/blob/master/hopkins/stats_cvid
 
 ## Estado vacunación
 
-[Estado](https://github.com/mharias/covid/blob/master/vacunacion/graficos/suministrada_admin_pauta.png)
+![Estado](https://github.com/mharias/covid/blob/master/vacunacion/graficos/suministrada_admin_pauta.png)
