@@ -19,3 +19,7 @@ En este [script](https://github.com/mharias/covid/blob/master/hopkins/stats_cvid
 ## Análisis publicados vs asignados de Madrid
 
 [Aquí](https://github.com/mharias/covid/blob/master/IA14_madrid/README.md)
+
+## Estado vacunación
+
+![Estado](https://github.com/mharias/covid/blob/master/vacunacion/graficos/suministrada_admin_pauta.png)
