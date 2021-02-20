@@ -1,5 +1,5 @@
 #!/bin/zsh
-DATE=$(date)
+DATE=$(date +"%d-%m-%y")
 
 echo "Empezamos a las $DATE";
 echo "hacemos pull del repo remoto"
